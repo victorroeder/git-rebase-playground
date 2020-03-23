@@ -1,3 +1,6 @@
 Doing commit 1 in branch master
 
 Dies ist eine Änderung von Entwickler 2
+
+
+Änderung 1 von Entwickler 1
