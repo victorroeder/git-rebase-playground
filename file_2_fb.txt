@@ -1,3 +1,5 @@
 Doing commit 2 in branch fb
 
 Änderung 2 von Entwickler 1
+
+Änderung 3 von Entwickler 1
