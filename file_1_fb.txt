@@ -1,3 +1,5 @@
 Doing commit 1 in branch fb
 
 Die ist eine Änderung von Entwickler 1
+
+Änderung 1 von Enwickler 2
